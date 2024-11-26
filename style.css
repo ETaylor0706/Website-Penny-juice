@@ -1,7 +1,7 @@
 @charset "uft-8";
  /* CSS Document */
     body {
-        background-image: url(../Images/bgimage.jpg);
+        background-image: url(bgimage.jpg);
         background-size: cover;
         font-family: Helvetica, Arial, sans-serif;
 }
